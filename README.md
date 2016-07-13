@@ -5,4 +5,6 @@ Help Ios/Android to generate localize string file
 
 2.chmod 777 Excelchange.command
 
-3.Click File
+4.Excute .command File and Select Sample.xls
+
+5.Magic~
