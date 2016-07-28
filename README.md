@@ -1,9 +1,8 @@
 # Localization converter
 
-This is a Python to help IOS/Android to generate localize string file
+This is a converter helping iOS/ android platform easily generate localization string file
 
 ![circledemo](https://github.com/MillmanY/Localize-String-Help/blob/master/play.gif)
-
 
 1.sudo easy_install pip
 
