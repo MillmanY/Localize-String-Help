@@ -1,8 +1,10 @@
 #!/usr/bin/python
 import pip
 import subprocess
+
 def install(package):
     subprocess.call(['sudo','pip', 'install', package])
+
 if __name__ == '__main__':
     install('xlrd')
 
