@@ -1,5 +1,9 @@
 # Localize-String-Help
-Help Ios/Android to generate localize string file
+
+This is a Python to help IOS/Android to generate localize string file
+
+![circledemo](https://github.com/MillmanY/Localize-String-Help/blob/master/play.gif)
+
 
 1.sudo easy_install pip
 
@@ -7,4 +11,11 @@ Help Ios/Android to generate localize string file
 
 4.Excute .command File and Select Sample.xls
 
-5.Magic~
+    1.click file 
+    2.python Excelchange.command
+
+5.Find your file in command path and Magic
+
+![circledemo](https://github.com/MillmanY/Localize-String-Help/blob/master/sample1.png)
+![circledemo](https://github.com/MillmanY/Localize-String-Help/blob/master/sample2.png)
+
