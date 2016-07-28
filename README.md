@@ -1,4 +1,4 @@
-# Localize-String-Help
+# Localization converter
 
 This is a Python to help IOS/Android to generate localize string file
 
